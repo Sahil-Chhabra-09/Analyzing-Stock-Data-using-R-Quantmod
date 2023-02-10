@@ -11,6 +11,6 @@ Performing Stock Analysis
 
 <b>Task 5</b>: Pulling down adjusted daily return stock data using Microsoft's stock.
 
-<b>Task 6</b>: Combining data for comparison. FB and Microsoft will be the two companies used. Remember this is more difficult than it appears since Microsoft has been around longer than Facebook (unequal rows).
+<b>Task 6</b>: Combining data for comparison. FB and Microsoft will be the two companies used.
 
 <b>Task 7</b>: Calculating the Sharp Ratio on multiple stocks to see which stock is truly the riskier asset or the stock with the best risk return profile.
